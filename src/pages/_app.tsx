@@ -1,6 +1,6 @@
 import { ThemeProvider, CSSReset, ColorModeProvider } from "@chakra-ui/core";
 import { createClient, Provider } from "urql";
-
+// test
 import theme from "../theme";
 
 const client = createClient({
